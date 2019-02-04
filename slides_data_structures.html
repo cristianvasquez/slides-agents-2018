@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Knowledge packages</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+	<link rel="stylesheet" href="themes/cristian/styles/styles.css">
+	<style>
+        .shower {
+            --slide-ratio: calc(16 / 9);
+        }
+    </style>
+</head>
+<body class="shower list">
+
+    <header class="caption">
+        <p><a href="index.html">Index (2018)</a></p>
+    </header>
+
+    <section class="slide">
+        <h2>Data Structures</h2>
+    </section>
+
+<section class="slide">
+    <h2>Agents can</h2>
+    <ul>    
+        <li>Share knowledge</li>
+        <li>Collect knowledge</li>
+    </ul>
+    <footer>
+        <h3>Approach</h3>
+    </footer>
+</section>
+
+<section class="slide">
+    <h2>Multiple ways to collect</h2>
+    <ul>
+        <li>Copy a KP to their dataspace</li>
+        <li>Store a reference in their dataspace</li>
+    </ul>
+    <footer>
+        <h3>Design Choice</h3>
+    </footer>
+</section>
+    
+<section class="slide">
+    <h2>Knowledge packages can reside in</h2>
+    <ul>
+        <li>An agent's workspace.</li>
+        <li>The environment
+            <ul>
+                <li>As a Web Blackboard</li>
+                <li>As an aggregator</li>
+            </ul>
+        </li>
+    </ul>
+    <footer>
+        <h3>Design Choice</h3>
+    </footer>
+</section>
+
+<section class="slide">
+    <h2>Several types of resources</h2>
+    <ul>            
+        <li>API descriptions</li>
+        <li>Step definitions</li>
+        <li>Shapes</li>
+        <li>Domain specific knowldge</li>
+    </ul>
+    <h3>Temptative name: Knowledge packages</h3>
+    <footer>
+        <h3>Requirement</h3>
+    </footer>
+</section>
+
+<section class="slide">
+    <h2>K-Packages can be</h2>
+    <ul>
+        <li>self-contained</li>
+        <li>aggregated</li>
+        <li>linked</li>
+        <li>Hybrids</li>
+    </ul>
+    <footer>
+        <h3>Design Choice</h3>
+    </footer>
+</section>
+
+<section class="slide">
+    <h2>Exposed through Hypermedia</h2>
+    <ul>
+        <li>Discovery</li>
+        <li>Transfer</li>
+    </ul>
+    <ul>
+        <li>Simple dereferenciation or linking.</li>
+        <li>N3 rules, RDF data, Queries.</li>
+    </ul>
+    <footer>
+        <h3>Design Choice</h3>
+    </footer>
+</section>
+
+<!-- API descriptions -->
+<section class="slide">
+    <h2>API descriptions contain</h2>
+    <ul>
+        <li>Point of interaction, call signatures (API)</li>
+        <li>Pointers to the triples to which they apply (URI, containers, patterns)</li>
+        <li>Metadata to manage these. Size, provenance, history</li>
+    </ul>
+    <footer>
+        <h3>Requirement</h3>
+    </footer>
+</section>
+
+<!-- Evolution -->
+<section class="slide">
+    <h2>Provenance Traces</h2>
+    <mark>Questions</mark>
+    <ol>
+        <li>How we keep track of the history of feature change?</li>
+        <li>Can this be useful?</li>
+    </ol>
+    <h3>Temptative name: Provenance Traces</h3>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Provenance Trace mutation</h2>
+    <figure>
+        <img class="diagram" src="diagrams/on_semantics/1_on_semantics.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Provenance Trace copy</h2>
+    TODO: Figure of a K-Package being transfered from one part to another. 
+</section>
+
+<section class="slide">
+<h2>Provenance Traces</h2>
+    <ul>
+        <li>Could be chains of deltas</li>
+        <li>Could be layered chains of operators</li>
+        <li>Could be both</li>
+        <li>We want traceability in form of links exposed by servers or other agents.</li>
+        <li><mark>Hypothesis</mark> Will be useful if they characterize signal.</li>
+    </ul>
+    <footer>
+        <h3>Design Choice</h3>
+    </footer>
+</section>
+
+<section class="slide">
+    <h2>Chain of deltas</h2>
+    OSTRICH
+    <ul>
+        <li>Pros
+            <ul>
+                <li>Generic</li>
+            </ul>
+        </li>
+        <li>Cons
+            <ul>
+                <li>Miss semantics of change</li>
+            </ul>
+        </li>
+        <li>
+            <mark>Question</mark> Can we mine patterns?
+        </li>
+    </ul>
+</section>
+
+<section class="slide">
+    <h2>Layered chains of operators</h2>
+    <ul>
+        <li>Known layers
+            <ul>
+                <li>Elementary changes which are atomic tasks.</li>
+                <li>Aggregated changes to represent composite and complex tasks</li>
+                <li>Domain specific change patterns.</li>
+            </ul>
+        </li>
+    </ul>
+</section>
+
+<section class="slide">
+    <h2>Layered Change operators</h2>
+    <ul>
+        <li>Pros
+            <ul>
+                <li>Can be binded to a tool, expressing semantics</li>
+                <li>They can be composed into layers with distinct levels of abstraction</li>
+                <li>There are algorithms to mine patterns from ontology evolution</li>
+            </ul>
+        </li>
+        <li>Cons
+            <ul>
+                <li>Expensive to describe.</li>
+                <li>Need to share semantics between agents</li>
+            </ul>
+        </li>
+    </ul>
+</section>
+
+<section class="slide">
+    <h2>K-Package evolution</h2>
+    <mark>Questions</mark>
+    <ul>
+        <li>When agents can refer to evolving K-Packages without risk of inconsistency?</li>
+        <li>What happens if agents cannot bennefit from an evolving K-Package?<li>
+        <ul>
+            <li>Do they negotiate with other agents?</li>
+            <li>Do they diverge?</li>
+        </ul>
+    </ul>
+</section>
+
+
+<section class="slide">
+    <h2>Vocabularies to express:</h2>    
+    <ol>
+        <li>Dependencies</li>
+        <li>Layered change operators</li>
+        <li>Feature exchange</li>
+    </ol>
+</section>
+
+<!-- Step definition -->
+<section class="slide">
+    <h2>State transitions</h2>
+</section>
+
+<section class="slide">
+    <h2>State transitions</h2>
+    <p>State transitions are used by the deliberative system of an agent. It contains a symbolic world model, that is used to develop plans and make decisions</p>
+    <p>We design steps that form a Map</p>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Step</h2>
+    <ul>
+        <li>Given a State 1, I can go to State 2</li>
+        <li>Defines which triples are removed and added </li>
+    </ul>
+    <figure>
+        <img class="diagram" src="diagrams/steps/01_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Step</h2>
+    <ul>
+        <li>Several equivalent paths</li>
+    </ul>
+    <figure>
+        <img class="diagram" src="diagrams/steps/02_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Map</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/03_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Map</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/04_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Map</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/05_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Map</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/06_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Map</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/07_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Map</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/08_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Provenance</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/09_steps.svg">
+    </figure>
+</section>
+
+<section class="slide" id="diagram">
+    <h2>Provenance</h2>
+    <figure>
+        <img class="diagram" src="diagrams/steps/10_steps.svg">
+    </figure>
+</section>
+
+<div class="progress"></div>
+
+<script src="scripts/shower.min.js"></script>
+
+</body>
+</html>

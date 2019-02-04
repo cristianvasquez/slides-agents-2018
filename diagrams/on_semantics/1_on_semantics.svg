@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="277mm" height="190mm" viewBox="0 0 27700 19000" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <defs>
+  <clipPath id="clip_path_1" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_2" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_2)">
+  <path fill="rgb(206,108,49)" stroke="none" d="M 12194,18014 L 7650,18014 7650,16899 16737,16899 16737,18014 12194,18014 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 12194,18014 L 7650,18014 7650,16899 16737,16899 16737,18014 12194,18014 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="635px" font-weight="600"><tspan class="TextPosition" x="7901" y="17701"><tspan fill="rgb(255,255,255)" stroke="none">Referent (described subject)</tspan></tspan></tspan></text>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="10257" y="11517"><tspan fill="rgb(0,0,0)" stroke="none">Build Identity</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9535" y="12114"><tspan fill="rgb(0,0,0)" stroke="none">(select properties)</tspan></tspan></tspan></text>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="6727" y="13908"><tspan fill="rgb(0,0,0)" stroke="none">Identify It</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7258" y="14505"><tspan fill="rgb(0,0,0)" stroke="none">(URI)</tspan></tspan></tspan></text>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="15452" y="13781"><tspan fill="rgb(0,0,0)" stroke="none">Assign</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="14220" y="14378"><tspan fill="rgb(0,0,0)" stroke="none">representations</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 11938,8518 L 8078,12846"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 7954,12773 L 7945,12727 7747,13217 8211,12964 8166,12960 8120,12948 8076,12928 8034,12898 7999,12861 7973,12818 7954,12773 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 11938,8518 L 11938,10434"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 11797,10462 L 11760,10434 11938,10931 12116,10434 12080,10460 12037,10482 11991,10496 11940,10502 11889,10498 11841,10483 11797,10462 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 11938,8518 L 15788,12601"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 15705,12718 L 15658,12723 16129,12963 15917,12479 15910,12523 15893,12568 15869,12611 15836,12649 15796,12681 15751,12704 15705,12718 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 12065,12582 L 12177,16403"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 12037,16435 L 11999,16408 12192,16900 12355,16398 12320,16425 12278,16448 12232,16464 12181,16471 12131,16468 12082,16455 12037,16435 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 8255,14995 L 9358,16499"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 9261,16605 L 9214,16604 9652,16900 9501,16394 9488,16436 9466,16479 9437,16518 9400,16553 9356,16579 9309,16596 9261,16605 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 16256,14614 L 14669,16518"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 14543,16449 L 14533,16404 14351,16900 14806,16632 14761,16629 14715,16619 14670,16600 14627,16571 14591,16536 14563,16494 14543,16449 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="19818" y="12841"><tspan fill="rgb(0,0,0)" stroke="none">Evolve</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(0,0,0)" stroke-linejoin="round" d="M 17028,17442 C 21041,17010 22021,8066 15028,7703"/>
+  <path fill="rgb(0,0,0)" stroke="none" d="M 16997,17364 L 17012,17342 16738,17457 17022,17542 17006,17523 16993,17499 16983,17474 16979,17445 16980,17417 16986,17389 16997,17364 Z"/>
+  <path fill="rgb(0,0,0)" stroke="none" d="M 14605,7692 L 15051,7853 15059,7554 14605,7692 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 12192,8390 L 9779,8390 9779,6993 14605,6993 14605,8390 12192,8390 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="10255" y="7854"><tspan fill="rgb(148,42,14)" stroke="none">“</tspan><tspan fill="rgb(148,42,14)" stroke="none">To Articulate”</tspan></tspan></tspan></text>
+ </g>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_3" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_3)"/>
+ <g clip-path="url(#clip_path_1)"/>
+</svg>

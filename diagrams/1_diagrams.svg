@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="277mm" height="190mm" viewBox="0 0 27700 19000" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <defs>
+  <clipPath id="clip_path_1" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_2" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_2)">
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 2920,5557 C 2920,4810 4211,4064 5503,4064 L 22308,4064 C 23600,4064 24892,4810 24892,5557 L 24892,15271 C 24892,16018 23600,16765 22308,16765 L 5503,16765 C 4211,16765 2920,16018 2920,15271 L 2920,5557 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 2920,4064 L 2920,4064 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 24892,16765 L 24892,16765 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="917px" font-weight="700"><tspan class="TextPosition" x="4189" y="5648"><tspan fill="rgb(148,42,14)" stroke="none">Agent</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 14282,10667 L 8636,10667 8636,6730 19928,6730 19928,10667 14282,10667 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9345" y="7485"><tspan fill="rgb(0,0,0)" stroke="none">Planning component</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 11113,10159 L 9399,10159 9399,8180 12826,8180 12826,10159 11113,10159 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="10291" y="9034"><tspan fill="rgb(148,42,14)" stroke="none">World</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="10251" y="9631"><tspan fill="rgb(148,42,14)" stroke="none">Model</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 16445,10159 L 14477,10159 14477,8180 18412,8180 18412,10159 16445,10159 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="15147" y="9034"><tspan fill="rgb(148,42,14)" stroke="none">Workflow</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="14685" y="9631"><tspan fill="rgb(148,42,14)" stroke="none">Composition</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 12827,9170 L 13981,9170"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 14009,9311 L 13981,9348 14478,9170 13981,8992 14007,9028 14029,9071 14043,9117 14049,9168 14045,9219 14030,9267 14009,9311 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 14282,15467 L 8636,15467 8636,11530 19928,11530 19928,15467 14282,15467 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="9345" y="12385"><tspan fill="rgb(0,0,0)" stroke="none">Environment</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 5578,14620 L 4425,14620 4425,7111 6731,7111 6731,14620 5578,14620 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="4873" y="11028"><tspan fill="rgb(148,42,14)" stroke="none">Input</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 22362,14731 L 21209,14731 21209,7222 23515,7222 23515,14731 22362,14731 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="21657" y="11139"><tspan fill="rgb(148,42,14)" stroke="none">Input</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" stroke-dasharray="53,53" d="M 19928,8699 L 20965,10544"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 20856,10637 L 20810,10631 21209,10977 21120,10456 21102,10497 21075,10537 21042,10572 21000,10602 20954,10623 20905,10634 20856,10637 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 19928,13499 L 20984,11420"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 21122,11459 L 21142,11501 21209,10977 20825,11340 20869,11332 20917,11332 20965,11341 21013,11359 21056,11385 21092,11420 21122,11459 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" stroke-dasharray="53,53" d="M 6731,10866 L 8308,9073"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 8432,9144 L 8441,9190 8636,8699 8174,8955 8219,8959 8265,8971 8309,8991 8351,9020 8386,9057 8413,9099 8432,9144 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 6731,10866 L 8344,13096"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 8247,13201 L 8200,13200 8636,13499 8489,12992 8475,13034 8453,13077 8424,13116 8386,13150 8343,13176 8295,13193 8247,13201 Z"/>
+  <defs>
+   <mask id="mask1">
+    <g>
+     <defs>
+      <linearGradient id="gradient1" x1="25526" y1="9915" x2="25526" y2="11365" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient1)" d="M 23539,9915 L 27513,9915 27513,11365 23539,11365 23539,9915 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask1)">
+   <path fill="none" stroke="rgb(206,108,49)" stroke-width="450" stroke-linejoin="round" stroke-linecap="square" d="M 23766,10622 L 25487,10640"/>
+   <path fill="rgb(206,108,49)" stroke="none" d="M 25595,11215 L 25480,11365 27513,10660 25495,9915 25603,10063 25688,10238 25745,10428 25764,10635 25746,10841 25685,11037 25595,11215 Z"/>
+  </g>
+  <defs>
+   <mask id="mask2">
+    <g>
+     <defs>
+      <linearGradient id="gradient2" x1="2395" y1="10088" x2="2395" y2="11538" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient2)" d="M 408,10088 L 4382,10088 4382,11538 408,11538 408,10088 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask2)">
+   <path fill="none" stroke="rgb(206,108,49)" stroke-width="450" stroke-linejoin="round" stroke-linecap="square" d="M 635,10795 L 2356,10813"/>
+   <path fill="rgb(206,108,49)" stroke="none" d="M 2464,11388 L 2349,11538 4382,10833 2364,10088 2472,10236 2557,10411 2614,10601 2633,10808 2615,11014 2554,11210 2464,11388 Z"/>
+  </g>
+ </g>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_3" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_3)"/>
+ <g clip-path="url(#clip_path_1)"/>
+</svg>

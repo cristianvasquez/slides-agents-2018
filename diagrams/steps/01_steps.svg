@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="277mm" height="190mm" viewBox="0 0 27700 19000" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <defs>
+  <clipPath id="clip_path_1" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_2" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_2)">
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 6366,13352 C 7266,13352 7954,14039 7954,14939 7954,15839 7266,16527 6366,16527 5466,16527 4779,15839 4779,14939 4779,14039 5466,13352 6366,13352 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 4779,13352 L 4779,13352 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 7955,16528 L 7955,16528 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="6248" y="15050"><tspan fill="rgb(148,42,14)" stroke="none">1</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 21422,13225 C 22322,13225 23010,13912 23010,14812 23010,15712 22322,16400 21422,16400 20522,16400 19835,15712 19835,14812 19835,13912 20522,13225 21422,13225 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 19835,13225 L 19835,13225 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 23011,16401 L 23011,16401 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="21304" y="14923"><tspan fill="rgb(148,42,14)" stroke="none">2</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 13820,16967 L 10835,16967 10835,13030 16804,13030 16804,16967 13820,16967 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 16845,14850 L 19316,14850"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 19766,14850 L 19316,14700 19316,15000 19766,14850 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 7874,14887 L 10922,14887"/>
+ </g>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_3" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_3)"/>
+ <g clip-path="url(#clip_path_1)"/>
+</svg>

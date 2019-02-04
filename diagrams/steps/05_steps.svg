@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="277mm" height="190mm" viewBox="0 0 27700 19000" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <defs>
+  <clipPath id="clip_path_1" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_2" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_2)">
+  <path fill="rgb(206,108,49)" stroke="none" d="M 2447,7696 C 2744,7696 2972,7949 2972,8280 2972,8611 2744,8865 2447,8865 2150,8865 1923,8611 1923,8280 1923,7949 2150,7696 2447,7696 Z M 1923,7696 L 1923,7696 Z M 2973,8866 L 2973,8866 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 2447,7696 C 2744,7696 2972,7949 2972,8280 2972,8611 2744,8865 2447,8865 2150,8865 1923,8611 1923,8280 1923,7949 2150,7696 2447,7696 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 1923,7696 L 1923,7696 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 2973,8866 L 2973,8866 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="2327" y="8445"><tspan fill="rgb(255,255,255)" stroke="none">1</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 6584,8849 C 6806,8849 6977,9019 6977,9242 6977,9465 6806,9635 6584,9635 6362,9635 6192,9465 6192,9242 6192,9019 6362,8849 6584,8849 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 6192,8849 L 6192,8849 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 6978,9636 L 6978,9636 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="6466" y="9352"><tspan fill="rgb(148,42,14)" stroke="none">2</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 4705,9775 L 3967,9775 3967,8801 5443,8801 5443,9775 4705,9775 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 2921,8509 L 3897,9258"/>
+  <path fill="rgb(206,108,49)" stroke="none" d="M 10306,7652 C 10604,7652 10832,7905 10832,8236 10832,8567 10604,8821 10306,8821 10008,8821 9781,8567 9781,8236 9781,7905 10008,7652 10306,7652 Z M 9781,7652 L 9781,7652 Z M 10833,8822 L 10833,8822 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 10306,7652 C 10604,7652 10832,7905 10832,8236 10832,8567 10604,8821 10306,8821 10008,8821 9781,8567 9781,8236 9781,7905 10008,7652 10306,7652 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 9781,7652 L 9781,7652 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 10833,8822 L 10833,8822 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="10186" y="8401"><tspan fill="rgb(255,255,255)" stroke="none">3</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 8427,9731 L 7689,9731 7689,8757 9165,8757 9165,9731 8427,9731 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 6897,9214 L 7619,9214"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 9175,9207 L 9581,8820"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 9906,8509 L 9477,8711 9684,8928 9906,8509 Z"/>
+  <path fill="rgb(206,108,49)" stroke="none" d="M 6457,7335 L 5719,7335 5719,6361 7195,6361 7195,7335 6457,7335 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 6457,7335 L 5719,7335 5719,6361 7195,6361 7195,7335 6457,7335 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 2762,7951 L 5625,6806"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 7231,6806 L 9489,7774"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 9903,7951 L 9548,7636 9430,7912 9903,7951 Z"/>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 11547,10096 L 11575,10097 11602,10099 11655,10108 11706,10122 11754,10141 11800,10165 11844,10194 11884,10227 11921,10264 11954,10305 11984,10350 12010,10398 12032,10449 12049,10503 12062,10560 12069,10619 12072,10680 12069,10741 12062,10800 12049,10857 12032,10911 12010,10962 11984,11011 11954,11055 11921,11097 11884,11134 11844,11167 11800,11196 11754,11220 11706,11239 11655,11253 11602,11262 11575,11264 11547,11265 11519,11264 11492,11262 11439,11253 11388,11239 11340,11220 11294,11196 11251,11167 11211,11134 11174,11097 11140,11055 11110,11011 11085,10962 11063,10911 11046,10857 11033,10800 11026,10741 11023,10680 11026,10619 11033,10560 11046,10503 11063,10449 11085,10398 11110,10350 11140,10305 11174,10264 11211,10227 11251,10194 11294,10165 11340,10141 11388,10122 11439,10108 11492,10099 11519,10097 11547,10096 Z M 11023,10096 L 11023,10096 Z M 12073,11266 L 12073,11266 Z"/>
+  <defs>
+   <mask id="mask1">
+    <g>
+     <defs>
+      <linearGradient id="gradient1" x1="11547" y1="10021" x2="11547" y2="11340" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient1)" d="M 10948,10021 L 12147,10021 12147,11340 10948,11340 10948,10021 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask1)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 11547,10096 C 11844,10096 12072,10349 12072,10680 12072,11011 11844,11265 11547,11265 11250,11265 11023,11011 11023,10680 11023,10349 11250,10096 11547,10096 Z"/>
+  </g>
+  <defs>
+   <mask id="mask2">
+    <g>
+     <defs>
+      <linearGradient id="gradient2" x1="11023" y1="10021" x2="11023" y2="10171" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient2)" d="M 10948,10021 L 11098,10021 11098,10171 10948,10171 10948,10021 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask2)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 11023,10096 L 11023,10096 Z"/>
+  </g>
+  <defs>
+   <mask id="mask3">
+    <g>
+     <defs>
+      <linearGradient id="gradient3" x1="12073" y1="11191" x2="12073" y2="11341" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient3)" d="M 11998,11191 L 12148,11191 12148,11341 11998,11341 11998,11191 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask3)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 12073,11266 L 12073,11266 Z"/>
+  </g>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="11427" y="10845"><tspan fill="rgb(255,255,255)" stroke="none">4</tspan></tspan></tspan></text>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 15684,11248 L 15712,11249 15739,11251 15792,11260 15843,11274 15891,11293 15937,11317 15981,11346 16021,11379 16058,11416 16091,11457 16121,11502 16147,11550 16169,11601 16186,11655 16199,11712 16206,11771 16209,11832 16206,11893 16199,11952 16186,12009 16169,12063 16147,12114 16121,12163 16091,12207 16058,12249 16021,12286 15981,12319 15937,12348 15891,12372 15843,12391 15792,12405 15739,12414 15712,12416 15684,12417 15656,12416 15629,12414 15576,12405 15525,12391 15477,12372 15431,12348 15388,12319 15348,12286 15311,12249 15277,12207 15247,12163 15222,12114 15200,12063 15183,12009 15170,11952 15163,11893 15160,11832 15163,11771 15170,11712 15183,11655 15200,11601 15222,11550 15247,11502 15277,11457 15311,11416 15348,11379 15388,11346 15431,11317 15477,11293 15525,11274 15576,11260 15629,11251 15656,11249 15684,11248 Z M 15160,11248 L 15160,11248 Z M 16210,12418 L 16210,12418 Z"/>
+  <defs>
+   <mask id="mask4">
+    <g>
+     <defs>
+      <linearGradient id="gradient4" x1="15684" y1="11173" x2="15684" y2="12492" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient4)" d="M 15085,11173 L 16284,11173 16284,12492 15085,12492 15085,11173 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask4)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 15684,11248 C 15981,11248 16209,11501 16209,11832 16209,12163 15981,12417 15684,12417 15387,12417 15160,12163 15160,11832 15160,11501 15387,11248 15684,11248 Z"/>
+  </g>
+  <defs>
+   <mask id="mask5">
+    <g>
+     <defs>
+      <linearGradient id="gradient5" x1="15160" y1="11173" x2="15160" y2="11323" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient5)" d="M 15085,11173 L 15235,11173 15235,11323 15085,11323 15085,11173 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask5)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 15160,11248 L 15160,11248 Z"/>
+  </g>
+  <defs>
+   <mask id="mask6">
+    <g>
+     <defs>
+      <linearGradient id="gradient6" x1="16210" y1="12343" x2="16210" y2="12493" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient6)" d="M 16135,12343 L 16285,12343 16285,12493 16135,12493 16135,12343 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask6)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 16210,12418 L 16210,12418 Z"/>
+  </g>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="15564" y="11997"><tspan fill="rgb(255,255,255)" stroke="none">5</tspan></tspan></tspan></text>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 13805,12175 L 13067,12175 13067,11201 14543,11201 14543,12175 13805,12175 Z"/>
+  <defs>
+   <mask id="mask7">
+    <g>
+     <defs>
+      <linearGradient id="gradient7" x1="13805" y1="11126" x2="13805" y2="12250" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient7)" d="M 12992,11126 L 14618,11126 14618,12250 12992,12250 12992,11126 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask7)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 13805,12175 L 13067,12175 13067,11201 14543,11201 14543,12175 13805,12175 Z"/>
+  </g>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 12065,10922 L 13076,11658"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 14478,11811 L 14750,11811"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 15200,11811 L 14750,11661 14750,11961 15200,11811 Z"/>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 19406,10052 L 19434,10053 19461,10055 19514,10064 19565,10078 19613,10097 19659,10121 19703,10150 19743,10183 19780,10220 19813,10261 19843,10306 19869,10354 19891,10405 19908,10459 19921,10516 19928,10575 19931,10636 19928,10697 19921,10756 19908,10813 19891,10867 19869,10918 19843,10967 19813,11011 19780,11053 19743,11090 19703,11123 19659,11152 19613,11176 19565,11195 19514,11209 19461,11218 19434,11220 19406,11221 19378,11220 19351,11218 19298,11209 19247,11195 19199,11176 19153,11152 19110,11123 19070,11090 19033,11053 18999,11011 18969,10967 18944,10918 18922,10867 18905,10813 18892,10756 18885,10697 18882,10636 18885,10575 18892,10516 18905,10459 18922,10405 18944,10354 18969,10306 18999,10261 19033,10220 19070,10183 19110,10150 19153,10121 19199,10097 19247,10078 19298,10064 19351,10055 19378,10053 19406,10052 Z M 18882,10052 L 18882,10052 Z M 19932,11222 L 19932,11222 Z"/>
+  <defs>
+   <mask id="mask8">
+    <g>
+     <defs>
+      <linearGradient id="gradient8" x1="19406" y1="9977" x2="19406" y2="11296" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient8)" d="M 18807,9977 L 20006,9977 20006,11296 18807,11296 18807,9977 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask8)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 19406,10052 C 19703,10052 19931,10305 19931,10636 19931,10967 19703,11221 19406,11221 19109,11221 18882,10967 18882,10636 18882,10305 19109,10052 19406,10052 Z"/>
+  </g>
+  <defs>
+   <mask id="mask9">
+    <g>
+     <defs>
+      <linearGradient id="gradient9" x1="18882" y1="9977" x2="18882" y2="10127" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient9)" d="M 18807,9977 L 18957,9977 18957,10127 18807,10127 18807,9977 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask9)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 18882,10052 L 18882,10052 Z"/>
+  </g>
+  <defs>
+   <mask id="mask10">
+    <g>
+     <defs>
+      <linearGradient id="gradient10" x1="19932" y1="11147" x2="19932" y2="11297" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient10)" d="M 19857,11147 L 20007,11147 20007,11297 19857,11297 19857,11147 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask10)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 19932,11222 L 19932,11222 Z"/>
+  </g>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="19286" y="10801"><tspan fill="rgb(255,255,255)" stroke="none">6</tspan></tspan></tspan></text>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 17527,12131 L 16789,12131 16789,11157 18265,11157 18265,12131 17527,12131 Z"/>
+  <defs>
+   <mask id="mask11">
+    <g>
+     <defs>
+      <linearGradient id="gradient11" x1="17527" y1="11082" x2="17527" y2="12206" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient11)" d="M 16714,11082 L 18340,11082 18340,12206 16714,12206 16714,11082 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask11)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 17527,12131 L 16789,12131 16789,11157 18265,11157 18265,12131 17527,12131 Z"/>
+  </g>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 18275,11607 L 19050,11049"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 15557,9735 L 14819,9735 14819,8761 16295,8761 16295,9735 15557,9735 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 11941,10351 L 14804,9206"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 16331,9206 L 18508,10114"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 18923,10287 L 18565,9975 18450,10252 18923,10287 Z"/>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 20684,6748 L 20712,6749 20739,6751 20792,6760 20843,6774 20892,6793 20938,6817 20981,6846 21022,6879 21059,6916 21092,6957 21122,7002 21148,7050 21170,7101 21187,7155 21200,7212 21207,7271 21210,7332 21207,7393 21200,7452 21187,7509 21170,7563 21148,7614 21122,7663 21092,7707 21059,7749 21022,7786 20981,7819 20938,7848 20892,7872 20843,7891 20792,7905 20739,7914 20712,7916 20684,7917 20656,7916 20629,7914 20576,7905 20525,7891 20476,7872 20430,7848 20387,7819 20347,7786 20310,7749 20276,7707 20247,7663 20221,7614 20199,7563 20182,7509 20169,7452 20162,7393 20159,7332 20162,7271 20169,7212 20182,7155 20199,7101 20221,7050 20247,7002 20276,6957 20310,6916 20347,6879 20387,6846 20430,6817 20476,6793 20525,6774 20576,6760 20629,6751 20656,6749 20684,6748 Z M 20159,6748 L 20159,6748 Z M 21211,7918 L 21211,7918 Z"/>
+  <defs>
+   <mask id="mask12">
+    <g>
+     <defs>
+      <linearGradient id="gradient12" x1="20684" y1="6673" x2="20684" y2="7992" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient12)" d="M 20084,6673 L 21285,6673 21285,7992 20084,7992 20084,6673 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask12)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 20684,6748 C 20982,6748 21210,7001 21210,7332 21210,7663 20982,7917 20684,7917 20386,7917 20159,7663 20159,7332 20159,7001 20386,6748 20684,6748 Z"/>
+  </g>
+  <defs>
+   <mask id="mask13">
+    <g>
+     <defs>
+      <linearGradient id="gradient13" x1="20159" y1="6673" x2="20159" y2="6823" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient13)" d="M 20084,6673 L 20234,6673 20234,6823 20084,6823 20084,6673 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask13)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 20159,6748 L 20159,6748 Z"/>
+  </g>
+  <defs>
+   <mask id="mask14">
+    <g>
+     <defs>
+      <linearGradient id="gradient14" x1="21211" y1="7843" x2="21211" y2="7993" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient14)" d="M 21136,7843 L 21286,7843 21286,7993 21136,7993 21136,7843 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask14)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 21211,7918 L 21211,7918 Z"/>
+  </g>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="20564" y="7497"><tspan fill="rgb(255,255,255)" stroke="none">8</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 18805,7875 L 18067,7875 18067,6901 19543,6901 19543,7875 18805,7875 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 16891,6477 L 18076,7358"/>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 24406,5752 L 24434,5753 24461,5755 24514,5764 24565,5778 24614,5797 24660,5821 24703,5850 24744,5883 24781,5920 24814,5961 24844,6006 24870,6054 24892,6105 24909,6159 24922,6216 24929,6275 24932,6336 24929,6397 24922,6456 24909,6513 24892,6567 24870,6618 24844,6667 24814,6711 24781,6753 24744,6790 24703,6823 24660,6852 24614,6876 24565,6895 24514,6909 24461,6918 24434,6920 24406,6921 24378,6920 24351,6918 24298,6909 24247,6895 24198,6876 24152,6852 24109,6823 24069,6790 24032,6753 23998,6711 23969,6667 23943,6618 23921,6567 23904,6513 23891,6456 23884,6397 23881,6336 23884,6275 23891,6216 23904,6159 23921,6105 23943,6054 23969,6006 23998,5961 24032,5920 24069,5883 24109,5850 24152,5821 24198,5797 24247,5778 24298,5764 24351,5755 24378,5753 24406,5752 Z M 23881,5752 L 23881,5752 Z M 24933,6922 L 24933,6922 Z"/>
+  <defs>
+   <mask id="mask15">
+    <g>
+     <defs>
+      <linearGradient id="gradient15" x1="24406" y1="5677" x2="24406" y2="6996" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient15)" d="M 23806,5677 L 25007,5677 25007,6996 23806,6996 23806,5677 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask15)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 24406,5752 C 24704,5752 24932,6005 24932,6336 24932,6667 24704,6921 24406,6921 24108,6921 23881,6667 23881,6336 23881,6005 24108,5752 24406,5752 Z"/>
+  </g>
+  <defs>
+   <mask id="mask16">
+    <g>
+     <defs>
+      <linearGradient id="gradient16" x1="23881" y1="5677" x2="23881" y2="5827" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient16)" d="M 23806,5677 L 23956,5677 23956,5827 23806,5827 23806,5677 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask16)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 23881,5752 L 23881,5752 Z"/>
+  </g>
+  <defs>
+   <mask id="mask17">
+    <g>
+     <defs>
+      <linearGradient id="gradient17" x1="24933" y1="6847" x2="24933" y2="6997" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient17)" d="M 24858,6847 L 25008,6847 25008,6997 24858,6997 24858,6847 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask17)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 24933,6922 L 24933,6922 Z"/>
+  </g>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Open Sans Semibold, sans-serif" font-size="423px" font-weight="600"><tspan class="TextPosition" x="24286" y="6501"><tspan fill="rgb(255,255,255)" stroke="none">9</tspan></tspan></tspan></text>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 22527,7831 L 21789,7831 21789,6857 23265,6857 23265,7831 22527,7831 Z"/>
+  <defs>
+   <mask id="mask18">
+    <g>
+     <defs>
+      <linearGradient id="gradient18" x1="22527" y1="6782" x2="22527" y2="7906" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient18)" d="M 21714,6782 L 23340,6782 23340,7906 21714,7906 21714,6782 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask18)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 22527,7831 L 21789,7831 21789,6857 23265,6857 23265,7831 22527,7831 Z"/>
+  </g>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 23275,7307 L 23650,7010"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 24003,6731 L 23557,6893 23743,7128 24003,6731 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 20557,5435 L 19819,5435 19819,4461 21295,4461 21295,5435 20557,5435 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 16941,6051 L 19804,4906"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 21331,4906 L 23589,5874"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 24003,6051 L 23648,5736 23530,6012 24003,6051 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 10776,8014 L 12954,6858"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 19558,10033 L 20373,8403"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 20574,8001 L 20239,8336 20507,8471 20574,8001 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 13746,7320 L 13008,7320 13008,6346 14484,6346 14484,7320 13746,7320 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 14478,6731 L 15699,6355"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 16129,6223 L 15655,6212 15743,6499 16129,6223 Z"/>
+  <defs>
+   <mask id="mask19">
+    <g>
+     <defs>
+      <linearGradient id="gradient19" x1="10199" y1="4034" x2="10199" y2="7366" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient19)" d="M 9512,4034 L 10886,4034 10886,7366 9512,7366 9512,4034 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask19)">
+   <path fill="none" stroke="rgb(206,108,49)" stroke-width="400" stroke-linejoin="round" stroke-linecap="square" d="M 10160,4240 L 10199,5446"/>
+   <path fill="rgb(206,108,49)" stroke="none" d="M 9659,5572 L 9512,5469 10264,7366 10886,5424 10751,5532 10589,5620 10411,5681 10216,5708 10020,5699 9832,5649 9659,5572 Z"/>
+  </g>
+  <defs>
+   <mask id="mask20">
+    <g>
+     <defs>
+      <linearGradient id="gradient20" x1="24321" y1="2256" x2="24321" y2="5588" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient20)" d="M 23634,2256 L 25008,2256 25008,5588 23634,5588 23634,2256 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask20)">
+   <path fill="none" stroke="rgb(206,108,49)" stroke-width="400" stroke-linejoin="round" stroke-linecap="square" d="M 24282,2462 L 24321,3668"/>
+   <path fill="rgb(206,108,49)" stroke="none" d="M 23781,3794 L 23634,3691 24386,5588 25008,3646 24873,3754 24711,3842 24533,3903 24338,3930 24142,3921 23954,3871 23781,3794 Z"/>
+  </g>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 16521,5846 C 16743,5846 16914,6016 16914,6239 16914,6462 16743,6632 16521,6632 16299,6632 16129,6462 16129,6239 16129,6016 16299,5846 16521,5846 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 16129,5846 L 16129,5846 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 16915,6633 L 16915,6633 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16403" y="6349"><tspan fill="rgb(148,42,14)" stroke="none">7</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 5453,9251 L 5725,9251"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 6175,9251 L 5725,9101 5725,9401 6175,9251 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 10668,8636 L 10795,8890"/>
+  <path fill="rgb(206,108,49)" fill-opacity="0.502" stroke="rgb(255,255,255)" stroke-opacity="0.502" d="M 10922,9524 L 10541,9524 10541,8931 11303,8931 11303,9524 10922,9524 Z"/>
+  <defs>
+   <mask id="mask21">
+    <g>
+     <defs>
+      <linearGradient id="gradient21" x1="10922" y1="8856" x2="10922" y2="9599" gradientUnits="userSpaceOnUse">
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="0.5" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+       <stop offset="1" style="stop-color:rgb(77,77,77)"/>
+      </linearGradient>
+     </defs>
+     <path style="fill:url(#gradient21)" d="M 10466,8856 L 11378,8856 11378,9599 10466,9599 10466,8856 Z"/>
+    </g>
+   </mask>
+  </defs>
+  <g style="mask:url(#mask21)">
+   <path fill="none" stroke="rgb(148,42,14)" stroke-width="150" stroke-linejoin="round" d="M 10922,9524 L 10541,9524 10541,8931 11303,8931 11303,9524 10922,9524 Z"/>
+  </g>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 10922,9525 L 11071,9774"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 11303,10160 L 11200,9697 10943,9851 11303,10160 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 16129,11684 L 16851,11684"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 21255,7353 L 21768,7368"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 19485,7308 L 19697,7323"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 19715,7465 L 19685,7500 20193,7357 19709,7145 19733,7183 19752,7227 19763,7274 19765,7325 19757,7376 19739,7423 19715,7465 Z"/>
+ </g>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_3" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_3)"/>
+ <g clip-path="url(#clip_path_1)"/>
+</svg>

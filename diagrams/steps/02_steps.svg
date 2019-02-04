@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="277mm" height="190mm" viewBox="0 0 27700 19000" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <defs>
+  <clipPath id="clip_path_1" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_2" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_2)">
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 5438,13528 C 5882,13528 6222,13868 6222,14312 6222,14756 5882,15096 5438,15096 4994,15096 4655,14756 4655,14312 4655,13868 4994,13528 5438,13528 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 4655,13528 L 4655,13528 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 6223,15097 L 6223,15097 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="5332" y="14412"><tspan fill="rgb(148,42,14)" stroke="none">1</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 13695,15827 C 14139,15827 14479,16167 14479,16611 14479,17055 14139,17395 13695,17395 13251,17395 12912,17055 12912,16611 12912,16167 13251,15827 13695,15827 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 12912,15827 L 12912,15827 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 14480,17396 L 14480,17396 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="13589" y="16711"><tspan fill="rgb(148,42,14)" stroke="none">2</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 9943,17675 L 8470,17675 8470,15731 11416,15731 11416,17675 9943,17675 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="847px" font-weight="400"><tspan class="TextPosition" x="9496" y="16906"><tspan fill="rgb(148,42,14)" stroke="none">S1</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 11436,16629 L 12381,16629"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 12409,16770 L 12381,16807 12878,16629 12381,16451 12407,16487 12429,16530 12443,16576 12449,16627 12445,16678 12430,16726 12409,16770 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 21124,13439 C 21568,13439 21908,13779 21908,14223 21908,14667 21568,15007 21124,15007 20680,15007 20341,14667 20341,14223 20341,13779 20680,13439 21124,13439 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 20341,13439 L 20341,13439 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 21909,15008 L 21909,15008 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="21018" y="14323"><tspan fill="rgb(148,42,14)" stroke="none">3</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 17372,17587 L 15899,17587 15899,15643 18845,15643 18845,17587 17372,17587 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="847px" font-weight="400"><tspan class="TextPosition" x="16925" y="16818"><tspan fill="rgb(148,42,14)" stroke="none">S2</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 18865,16541 L 20226,15153"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 20346,15232 L 20353,15278 20574,14798 20099,15028 20143,15035 20189,15049 20232,15071 20272,15103 20305,15142 20330,15186 20346,15232 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-width="102" stroke-linejoin="round" stroke-linecap="round" d="M 13440,12805 L 11967,12805 11967,10861 14913,10861 14913,12805 13440,12805 Z"/>
+  <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Serif, serif" font-size="847px" font-weight="400"><tspan class="TextPosition" x="12993" y="12036"><tspan fill="rgb(148,42,14)" stroke="none">S3</tspan></tspan></tspan></text>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 14986,11750 L 19863,13840"/>
+  <path fill="rgb(148,42,14)" stroke="none" d="M 19833,13981 L 19793,14004 20320,14036 19933,13676 19943,13720 19946,13768 19941,13816 19926,13865 19902,13910 19870,13949 19833,13981 Z"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 6223,14036 L 11938,11750"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 6096,14798 L 8509,16703"/>
+  <path fill="none" stroke="rgb(148,42,14)" stroke-linejoin="round" d="M 14478,16637 L 15875,16576"/>
+ </g>
+ <g clip-path="url(#clip_path_1)"/>
+ <defs>
+  <clipPath id="clip_path_3" clipPathUnits="userSpaceOnUse">
+   <path d="M 0,0 L 27702,0 27702,18997 0,18997 0,0 Z"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clip_path_3)"/>
+ <g clip-path="url(#clip_path_1)"/>
+</svg>

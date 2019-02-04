@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "start": "live-server . --watch='index.html,styles/**,fonts/**,images/**,scripts/**'"
+    },
+    "dependencies": {
+        "live-server": "^1.2.1"
+    }
+}
