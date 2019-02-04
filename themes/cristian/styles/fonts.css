@@ -1,64 +1,34 @@
-/* PT Sans */
 
 @font-face {
-    font-family: 'PT Sans';
-    font-display: optional;
-    src:
-        local('PT Sans'),
-        local('PTSans-Regular'),
-        url('fonts/pt-sans-regular.woff2') format('woff2');
+    font-family: "Gill Sans";
+    src: url("//db.onlinewebfonts.com/t/0a301304b10f622898ef8e72defdcf8f.eot");
+    src: url("//db.onlinewebfonts.com/t/0a301304b10f622898ef8e72defdcf8f.eot?#iefix") format("embedded-opentype"),
+        url("//db.onlinewebfonts.com/t/0a301304b10f622898ef8e72defdcf8f.woff2") format("woff2"),
+        url("//db.onlinewebfonts.com/t/0a301304b10f622898ef8e72defdcf8f.woff") format("woff"),
+        url("//db.onlinewebfonts.com/t/0a301304b10f622898ef8e72defdcf8f.ttf") format("truetype"),
+        url("//db.onlinewebfonts.com/t/0a301304b10f622898ef8e72defdcf8f.svg#Gill Sans") format("svg");
 }
 
-@font-face {
-    font-family: 'PT Sans';
-    font-weight: bold;
-    font-display: optional;
-    src:
-        local('PT Sans Bold'),
-        local('PTSans-Bold'),
-        url('fonts/pt-sans-bold.woff2') format('woff2');
-}
 
 @font-face {
-    font-family: 'PT Sans';
-    font-style: italic;
-    font-display: optional;
-    src:
-        local('PT Sans Italic'),
-        local('PTSans-Italic'),
-        url('fonts/pt-sans-italic.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'PT Sans';
-    font-style: italic;
-    font-weight: bold;
-    font-display: optional;
-    src:
-        local('PT Sans Bold Italic'),
-        local('PTSans-BoldItalic'),
-        url('fonts/pt-sans-bold-italic.woff2') format('woff2');
-}
-
-/* PT Narrow */
-
-@font-face {
-    font-family: 'PT Sans Narrow';
-    font-weight: bold;
-    font-display: optional;
-    src:
-        local('PT Sans Narrow Bold'),
-        local('PTSans-NarrowBold'),
-        url('fonts/pt-sans-narrow-bold.woff2') format('woff2');
+    font-family: "Gill Sans Bold";
+    src: url("fonts/0a301304b10f622898ef8e72defdcf8f.eot");
+    /* IE9*/
+    src: url("fonts/0a301304b10f622898ef8e72defdcf8f.eot?#iefix") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("fonts/0a301304b10f622898ef8e72defdcf8f.woff2") format("woff2"),
+        /* chrome、firefox */
+        url("fonts/0a301304b10f622898ef8e72defdcf8f.woff") format("woff"),
+        /* chrome、firefox */
+        url("fonts/0a301304b10f622898ef8e72defdcf8f.ttf") format("truetype"),
+        /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+        url("fonts/0a301304b10f622898ef8e72defdcf8f.svg#Gill Sans Bold") format("svg");
+    /* iOS 4.1- */
 }
 
 /* PT Mono */
-
 @font-face {
     font-family: 'PT Mono';
-    font-display: optional;
     src:
-        local('PT Mono'),
-        local('PTMono-Regular'),
         url('fonts/pt-mono-regular.woff2') format('woff2');
 }
