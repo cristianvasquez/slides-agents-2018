@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Agents</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+	<link rel="stylesheet" href="themes/cristian/styles/styles.css">
+	<style>
+        .shower {
+            --slide-ratio: calc(16 / 9);
+        }
+    </style>
+</head>
+<body class="shower list">
+
+
+    <section class="slide" id="picture_2">
+        <h2>Multi agent systems</h2>
+        <figure>
+            <img class="cover" src="pictures/picture.jpg">
+        </figure>
+        <style>
+            #picture h2 {
+                color: white;
+                text-align: center;
+            }
+        </style>
+    </section>
+
+    <section class="slide">
+        <h2>About describing the world</h2>
+        <h3>We cannot:</h3>
+        <ul>
+            <li>Access to a model that describes the world in detail.</li>
+            <li>As humans, describe it.</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>About describing the world</h2>
+        <h3>We can:</h3>
+        <ul>
+            <li>Access partial descriptions (relevant to our tasks)</li>
+            <li>Describe them through facts and logic (Data and Rules)</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>About describing the world</h2>
+        <ul>
+            <mark>Problem</mark>
+            <li>The cost of these descriptions is high</li>
+            <li>We don't necessarily know what descriptions to use</li>
+        </ul>
+        <ul>
+            <mark>Hypothesis</mark> It is convenient to:
+            <li>Describe and share descriptions to minimize total (elicitation) costs</li>
+            <li>Use our agents to collect them</li>
+        </ul>
+        Question: <a href="./slides_knowledge_packages.html">How these descriptions would look like?</a>
+        
+    </section>
+
+    <section class="slide">
+        <h2>Multi agent systems</h2>
+        <ul>
+            <li>Each agent has incomplete information or capabilities for solving the problem</li>
+            <li>There is system of global control</li>
+            <li>Computation is asynchronous</li>
+        </ul>
+        Note these systems were conceived before the web and are traditionally message based.
+        We can still explore all this again, from hypermedia-comunica perspective.
+    </section>
+
+    <section class="slide">
+        <h2>Multi agent systems</h2>
+        <ul>
+            <li>Each agent has incomplete information or capabilities for solving the problem</li>
+            <li>There is system of global control</li>
+            <li>Computation is asynchronous</li>
+        </ul>
+        Note these systems were conceived before the web and are traditionally message based. We can still explore all this again,
+        from hypermedia-comunica perspective.
+    </section>
+
+    <section class="slide">
+        <h2>Multi agent systems</h2>
+        <ul>
+            <li>Cheap to a add <mark>heterogeneous</mark> agents to the system</li>
+            <li>Better designed to tolerate uncertainlity</li>
+            <li>Robust, or tolerant to failure if decentralized</li>
+            <li>Agents can handle anomalies locally, resulting in a overall system which is more responsive.</li>
+            <li>Agents can share functionality.</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Multi agent systems</h2>
+        Questions:
+        <ul>
+            <li>What are the costs associated to multi agent systems?</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Multi agent systems</h2>
+        Multi-agent systems can be
+        <ul>
+            <li>Competitive</li>
+            <li>Collaborative</li>
+            <li>Hybrids</li>
+        </ul>
+        <p>
+            In competitive negotiation, agents are self-interested and maximize their local utility.
+            Cooperative setups try to maximize their global utility, they need to take into account activities of all the agents in the system. 
+        </p>
+    </section>
+
+    <section class="slide">
+        <h2>Multi agent systems</h2>
+        Negotiation
+        <ul>
+            <li>Q: Negotiation protocols?</li>
+            <li>Q: Negotiation objects? (shared representation used to reach agreements)</li>
+            <li>Decision-making models? (used by participants to act in the line of the negotiation protocol to archive
+                objectives)</li>
+            <li>Q: Negotiation strategy? (a function of specifics of the negotiation scenario and the negotiation protocol)</li>
+            <li>Q: Negotiation mechanism/implementation? (protocol+strategy)</li>
+        </ul>
+    </section>
+
+    <section class="slide">
+        <h2>Distributed Architecture</h2>
+        Agents that count with 
+        <ul>
+            <li>Their (partial) ontology each</li>
+            <li>Can be clustered according to one metric (i.e simmilarity)</li>
+            <li>Can collect knowledge to their spaces (they can have state)</li>
+            <li>If they cannot, (knowledge too alien for them) they can ask for to translator peers</li>
+        </ul>
+
+        <!-- What are the costs of this collection? -->
+        <!-- When this approach is useful, when it is not? -->
+    </section>
+
+
+    <div class="progress"></div>
+	<script src="scripts/shower.min.js"></script>
+
+</body>
+</html>

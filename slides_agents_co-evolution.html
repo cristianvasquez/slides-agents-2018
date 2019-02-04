@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Hypermedia Agents</title>
+<title>Hypermedia agents co-evolution</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
@@ -19,12 +19,12 @@
 <body class="shower list">
 
 	<header class="caption">
-		<h1>Hypermedia Agents</h1>
+		<h1>Hypermedia agents co-evolution</h1>
 		<p><a href="index.html">Index</a></p>
 	</header>
 
 	<section class="slide" id="cover">
-		<h2>Hypermedia Agents</h2>
+		<h2>Hypermedia agents co-evolution</h2>
 		<div class="bottom">
 			<footer>
 				<p class="author">
@@ -43,36 +43,30 @@
 		<img src="./pictures/logo_imec.png" alt="imec" style="position: absolute; left: 100px; bottom: 20px; max-width: 80px">
 	</section>
 
-
 	<section class="slide">
-		<h2>Hypermedia Architecture</h2>
-		Agents that use Hypermedia to
+		<h2>Rodney Brooks</h2>
 		<ul>
-			<li>Expose</li>
-			<li>Find</li>
-			<li>Collect</li>
-			<li>Interpret</li>
+			<li>Intelligent behaviour can be generated <b>without</b>:
+				<ol>
+					<li>Representations</li>
+					<li>Abstract reasoning</li>
+				</ol>
+				(of the kind that symbolic AI proposes)
+			</li>
+			<li>Intelligence is an <mark>emergent property</mark> of certain complex systems</li>
 		</ul>
-		models and operations from other agents.
-		I believe that to interpret models, we need the traces.
-		<!-- What are the costs of this collection? -->
-		<!-- When this approach is useful, when it is not? -->
+		....this was controversial, and discussed through the AI winter...
 	</section>
-
 
 	<section class="slide">
-		<h2>Related work</h2>
-		<p><strong>Hypermedia driven APIs</strong>
-			<ul>
-				<li>Functionality exposed by means of hypermedia controls</li>
-				<li>Clients can discover the interfaces in the Web</li>
-				<li>Allows personalizing content, <strong>tailoring the APIs</strong> (perhaps according to the data).</li>
-			</ul>
-		</p>
-		<img src="./pictures/logo_ughent.png" alt="Ghent University" style="position: absolute; left: 0; bottom: 0; max-width: 100px">
-		<img src="./pictures/logo_imec.png" alt="imec" style="position: absolute; left: 100px; bottom: 20px; max-width: 80px">
+		<h2>Hybrid Agents</h2>
+		... a mix of two (or more) subsystems
+		<ul>
+			<li>Deliberative System: Containing a symbolic world model, which develops plans and makes decisions in the way
+				proposed by symbolic AI.</li>
+			<li>Reactive System: which is capable of reacting to events without complex reasoning</li>
+		</ul>
 	</section>
-
 
 	<section class="slide">
 		<h2>Approach</h2>
@@ -103,6 +97,49 @@
 	</section>
 
 	<section class="slide">
+		<h2>Approach</h2>
+		<p>While API interfaces evolve, nodes leave <br /> <strong>evolution trails</strong> in the Web, used to:</p>
+		<ol>
+			<li>Discover of new functionality</li>
+			<li>Discover new relations between the data</li>
+			<p>
+				<figure>
+					<img class="cover" src="diagrams/ISWC_2018/diagrams - 05.png">
+				</figure>
+				<img src="./pictures/logo_ughent.png" alt="Ghent University" style="position: absolute; left: 0; bottom: 0; max-width: 100px">
+				<img src="./pictures/logo_imec.png" alt="imec" style="position: absolute; left: 100px; bottom: 20px; max-width: 80px">
+	</section>
+
+	<section class="slide">
+		<h2>Approach</h2>
+		<p>Expectation</p>
+		<p></p>
+		<ul>
+			<li>Nodes can <strong>tailor</strong> their functionality, adapting it to the data of a user</li>
+			<li>The effort of building Hypermedia Interfaces is <strong>distributed</strong> among peers</li>
+			<li>API evolution trails are then useful for <strong>bootstrapping</strong> new configurations</li>
+		</ul>
+		<img src="./pictures/logo_ughent.png" alt="Ghent University" style="position: absolute; left: 0; bottom: 0; max-width: 100px">
+		<img src="./pictures/logo_imec.png" alt="imec" style="position: absolute; left: 100px; bottom: 20px; max-width: 80px">
+		<footer>
+			<p>I expect Nodes can build API configurations adapted to the data of a user.</p>
+			<p>Also my expectation is that this promotes healthy share, to enable better collaboration between users.</p>
+		</footer>
+	</section>
+
+	<section class="slide">
+		<h2>Evaluation plan</h2>
+		<h3>Case studies</h3>
+		<p>Personal Agents applied to:</p>
+		<ul>
+			<li>Healthcare</li>
+			<li>E-government</li>
+		</ul>
+		<img src="./pictures/logo_ughent.png" alt="Ghent University" style="position: absolute; left: 0; bottom: 0; max-width: 100px">
+		<img src="./pictures/logo_imec.png" alt="imec" style="position: absolute; left: 100px; bottom: 20px; max-width: 80px">
+	</section>
+
+	<section class="slide">
 		<h2>Evaluation plan</h2>
 		<h3>Multi-agent simulation</h3>
 		<ul>
@@ -126,6 +163,7 @@
 		<img src="./pictures/logo_ughent.png" alt="Ghent University" style="position: absolute; left: 0; bottom: 0; max-width: 100px">
 		<img src="./pictures/logo_imec.png" alt="imec" style="position: absolute; left: 100px; bottom: 20px; max-width: 80px">
 	</section>
+
 
 	<div class="progress"></div>
 	<script src="scripts/shower.min.js"></script>
